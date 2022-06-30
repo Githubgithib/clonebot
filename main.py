@@ -1,3 +1,3 @@
-from bot import Bot
+from bot import Bot ns bot 
 
-Bot().run()
+Bot().run() clone 
